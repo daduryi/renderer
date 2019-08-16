@@ -3,7 +3,7 @@
 
 原始图片
 
-![图片加载失败](crop_blur_video/mask_photo.png "mask_photo.png")
+![图片加载失败](mask_photo.png "mask_photo.png")
 ![图片加载失败](https://www.baidu.com/img/bdlogo.gif "mask_photo.png")
 
 
