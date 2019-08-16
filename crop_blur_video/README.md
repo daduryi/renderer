@@ -1,4 +1,4 @@
-# 识别抖音视频上下高斯模糊分界线, 再用ffmpeg裁剪crop视频
+# 识别抖音视频上下高斯模糊分界线
 
 #### 原始图片
 
@@ -10,4 +10,5 @@
 #### 识别到的两条线即为裁剪位置（黑线，3个像素）
 ![图片加载失败](Gray_Image_BlackLine.jpg "Gray_Image_BlackLine.jpg")
 
+#### 再用ffmpeg裁剪crop视频
 
